@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "e68d2544589fda7c520128c82fe7e142",
+    "content-hash": "9ff35c6bd21abba0a25da32dfa256a39",
     "packages": [
         {
             "name": "asm89/stack-cors",
@@ -1303,16 +1303,16 @@
         },
         {
             "name": "fabio/laravel-simple-bases",
-            "version": "0.8.8",
+            "version": "0.8.11",
             "source": {
                 "type": "git",
                 "url": "https://github.com/fabio-pv/laravel-simple-bases.git",
-                "reference": "a09853dd3f2f2a44c7cf0aeb3cd2bcb0dab303b5"
+                "reference": "51f0171550586b2604b536dce519dd54a72d5947"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/fabio-pv/laravel-simple-bases/zipball/a09853dd3f2f2a44c7cf0aeb3cd2bcb0dab303b5",
-                "reference": "a09853dd3f2f2a44c7cf0aeb3cd2bcb0dab303b5",
+                "url": "https://api.github.com/repos/fabio-pv/laravel-simple-bases/zipball/51f0171550586b2604b536dce519dd54a72d5947",
+                "reference": "51f0171550586b2604b536dce519dd54a72d5947",
                 "shasum": ""
             },
             "require": {
@@ -1364,9 +1364,9 @@
             ],
             "support": {
                 "issues": "https://github.com/fabio-pv/laravel-simple-bases/issues",
-                "source": "https://github.com/fabio-pv/laravel-simple-bases/tree/v0.8.8"
+                "source": "https://github.com/fabio-pv/laravel-simple-bases/tree/v0.8.11"
             },
-            "time": "2021-02-01T13:32:40+00:00"
+            "time": "2021-07-26T18:50:36+00:00"
         },
         {
             "name": "fabio/laravel-simple-deploy",

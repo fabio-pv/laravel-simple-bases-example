@@ -34,7 +34,7 @@ class CarTransformer extends TransformerAbstract
     {
         return [
             'uuid' => $car->uuid,
-            'name' => $car->license_plate,
+            'name' => $car->name,
             'license_plate' => $car->license_plate,
             'motor_power' => $car->motor_power,
             'files' => $car->filesToTransformer(),

@@ -11,9 +11,11 @@ return [
     ],
 
     \App\Models\v1\Car::class => [
-        'fantasy_property' => 'photo',
-        'extension' => '.png',
-        'name' => 'car_photo',
-    ],
+        [
+            'fantasy_property' => 'photo',
+            'extension' => '.png',
+            'name' => 'car_photo',
+        ],
+    ]
 
 ];

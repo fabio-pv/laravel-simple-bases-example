@@ -5,7 +5,8 @@ return [
 
         'car_uuid' => [
             'model' => \App\Models\v1\Car::class,
-            'property' => 'car_id'
+            'property' => 'car_id',
+            'nullable' => true,
         ],
 
     ]
